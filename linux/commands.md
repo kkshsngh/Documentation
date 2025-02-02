@@ -24,12 +24,12 @@ wget <url>downloads files
 whoami- show current user
 who- show logged in user
 sudo <command> run command as superuser
-adduser <user> add new user
-passwd <user> change user passworld
+adduser <user>- add new user
+passwd <user> -change user passworld
 uptime- show system uptime
 free -h -show memory usages
 dmesg- view system log
-gzip<file> compress file
+gzip<file> -compress file
 gunzip <file.gz> decompress file
 apt update @@ apt upgrade- update system
 apt install <package> install a package
