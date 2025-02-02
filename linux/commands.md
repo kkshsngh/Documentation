@@ -1,70 +1,71 @@
-#commands
-ls- list file and directories
+##commands
 
-cd <dir> change directories
+1. ls- list file and directories
 
-mkdir <dir> create a new directory
+2. cd <dir>- change directories
 
-rm <file> remove a file
+3. mkdir <dir>- create a new directory
 
-cp <source> <destination> copy files or directories
+4. rm <file>- remove a file
 
-mv <source> <dest> move /rename files or directories
+5. cp <source> <destination> -copy files or directories
 
-touch <file> create an empty file
+6. mv <source> <dest>- move /rename files or directories
 
-cat <file> view file content
+7. touch <file> -create an empty file
 
-nano <file> edit a file
+8. cat <file>- view file content
 
-ps aux - shows all running process
+9. nano <file>- edit a file
 
-less <file> view large files page by page
+10. ps aux - shows all running process
 
-df -h check disk space usages
+11. less <file>- view large files page by page
 
-du -sh <dir> check directory size
+12. df -h -check disk space usages
 
-find <dir> name <file> search for a file
+13. du -sh -<dir> check directory size
 
-ip a show network interface and ip address
+14. find <dir> -name <file> search for a file
 
-ping <host> test network connection
+15. ip a -show network interface and ip address
 
-curl <url> fetch data from a url
+16. ping <host>- test network connection
 
-wget <url>downloads files
+17. curl <url> -fetch data from a url
 
-whoami- show current user
+18. wget <url>-downloads files
 
-who- show logged in user
+19. whoami- show current user
 
-sudo <command> run command as superuser
+20. who- show logged in user
 
-adduser <user>- add new user
+21. sudo <command>- run command as superuser
 
-passwd <user> -change user passworld
+22. adduser <user>- add new user
 
-uptime- show system uptime
+23. passwd <user> -change user passworld
 
-free -h -show memory usages
+24. uptime- show system uptime
 
-dmesg- view system log
+25. free -h -show memory usages
 
-gzip<file> -compress file
+26. dmesg- view system log
 
-gunzip <file.gz> decompress file
+27. gzip<file> -compress file
 
-apt update @@ apt upgrade- update system
+28. gunzip <file.gz>- decompress file
 
-apt install <package> install a package
+29. apt update @@ apt upgrade- update system
 
-apt remove <package> remove a package
+30. apt install <package>- install a package
 
-alias ll= "ls -la"- create ashortcut command
+31. apt remove <package>- remove a package
 
-history- show command history
+32. alias ll= "ls -la"- create ashortcut command
 
-clear- clear the terminal
+33. history- show command history
 
-exit- log out from the session
+34. clear- clear the terminal
+
+35. exit- log out from the session
