@@ -1,15 +1,12 @@
-##File and directory management
+
+## File and directory management
 
 ```
 1. ls- list file and directories
 
-2. cd
+2. cd - change directories
 
-- change directories
-
-3. mkdir
-
-- create a new directory
+3. mkdir - create a new directory
 
 4. rm - remove a file
 
@@ -27,15 +24,11 @@
 
 11. less - view large files page by page
 
-12. df -h -check disk space usages
+12. df -h - check disk space usages
 
-13. du -sh -
+13. du -sh - check directory size
 
-check directory size
-
-14.find
-
--name search for a file
+14.find -name search for a file
 
 15. ip a -show network interface and ip address
 
@@ -65,7 +58,7 @@ check directory size
 
 28. gunzip <file.gz>- decompress file
 
-29.apt update @@ apt upgrade- update system
+29.apt update @@ apt upgrade- update system (ubuntu)
 
 30. apt install - install a package
 
