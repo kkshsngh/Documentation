@@ -1,50 +1,59 @@
-##commands
+##File and directory management
 
+```
 1. ls- list file and directories
 
-2. cd <dir>- change directories
+2. cd
 
-3. mkdir <dir>- create a new directory
+- change directories
 
-4. rm <file>- remove a file
+3. mkdir
 
-5. cp <source> <destination> -copy files or directories
+- create a new directory
 
-6. mv <source> <dest>- move /rename files or directories
+4. rm - remove a file
 
-7. touch <file> -create an empty file
+5. cp -copy files or directories
 
-8. cat <file>- view file content
+6. mv - move /rename files or directories
 
-9. nano <file>- edit a file
+7. touch -create an empty file
+
+8. cat - view file content
+
+9. nano - edit a file
 
 10. ps aux - shows all running process
 
-11. less <file>- view large files page by page
+11. less - view large files page by page
 
 12. df -h -check disk space usages
 
-13. du -sh -<dir> check directory size
+13. du -sh -
 
-14. find <dir> -name <file> search for a file
+check directory size
+
+14.find
+
+-name search for a file
 
 15. ip a -show network interface and ip address
 
-16. ping <host>- test network connection
+16. ping - test network connection
 
-17. curl <url> -fetch data from a url
+17. curl -fetch data from a url
 
-18. wget <url>-downloads files
+18. wget -downloads files
 
 19. whoami- show current user
 
 20. who- show logged in user
 
-21. sudo <command>- run command as superuser
+21. sudo - run command as superuser
 
-22. adduser <user>- add new user
+22. adduser - add new user
 
-23. passwd <user> -change user passworld
+23. passwd -change user passworld
 
 24. uptime- show system uptime
 
@@ -52,15 +61,15 @@
 
 26. dmesg- view system log
 
-27. gzip<file> -compress file
+27. gzip -compress file
 
 28. gunzip <file.gz>- decompress file
 
-29. apt update @@ apt upgrade- update system
+29.apt update @@ apt upgrade- update system
 
-30. apt install <package>- install a package
+30. apt install - install a package
 
-31. apt remove <package>- remove a package
+31. apt remove - remove a package
 
 32. alias ll= "ls -la"- create ashortcut command
 
@@ -69,3 +78,4 @@
 34. clear- clear the terminal
 
 35. exit- log out from the session
+```
