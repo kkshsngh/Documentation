@@ -1,5 +1,5 @@
 
-## File and directory management
+## Linux Commands:
 
 ```
 1. ls- list file and directories
